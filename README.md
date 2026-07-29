@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! It's Kerim!
 
-<!--
-**krmctlbs/krmctlbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software and Game Developer with an emphasis on **Full-Stack Web, and Game Dev**.
 
-Here are some ideas to get you started:
+Currently digging more into **Java Spring Boot Backend Architectures, and Unity Game Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I enjoy building practical end-to-end software from scratch, whether that means launching live production websites, designing reactive game mechanics, or leveraging modern AI-assisted workflows to accelerate system prototypes and code architecture.
+
+
+<p align="left">
+   <a href="https://www.linkedin.com/in/krmctlbs/"><img src="https://img.shields.io/badge/LinkedIn%20-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+   
